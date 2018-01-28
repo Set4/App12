@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace App12
 {
-    [Activity(Label = "App12", MainLauncher = true)]
+    [Activity(Label = "App12")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
